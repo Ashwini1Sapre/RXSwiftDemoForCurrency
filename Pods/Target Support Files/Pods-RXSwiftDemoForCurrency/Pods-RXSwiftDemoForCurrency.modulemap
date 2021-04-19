@@ -1,0 +1,6 @@
+framework module Pods_RXSwiftDemoForCurrency {
+  umbrella header "Pods-RXSwiftDemoForCurrency-umbrella.h"
+
+  export *
+  module * { export * }
+}
